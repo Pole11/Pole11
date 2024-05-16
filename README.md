@@ -9,3 +9,7 @@ I am passionate in **GNU/Linux** and my personal interests are now torwards **S*
 # `ls experience`
 I have a background in web development, game development and creative coding. 
 But over the past years the thing I am most proud of is the experience I have gained in using Linux.
+
+# `ls badges`
+
+![version-control-with-git](https://github.com/Pole11/Pole11/assets/69432075/79600d4a-83ce-46c1-8c29-559a4a0fee16)
